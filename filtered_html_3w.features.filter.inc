@@ -34,7 +34,7 @@ function filtered_html_3w_filter_default_formats() {
         'weight' => '1',
         'status' => '1',
         'settings' => array(
-          'allowed_html' => '<a> <em> <strong> <b> <i> <cite> <blockquote> <code> <ul> <ol> <li> <dl> <dt> <dd> <table> <col> <tbody> <tr> <td> <th> <div> <h1> <h2> <h3> <p> <br> ',
+          'allowed_html' => '<a> <em> <strong> <b> <i> <u> <cite> <blockquote> <code> <ul> <ol> <li> <dl> <dt> <dd> <table> <col> <tbody> <tr> <td> <th> <div> <h1> <h2> <h3> <p> <br> ',
           'filter_html_help' => 1,
           'filter_html_nofollow' => 0,
         ),
